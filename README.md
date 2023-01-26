@@ -1,6 +1,6 @@
 ## Description
 
-this is my
+this is a simple task management system
 
 ## Installation
 
